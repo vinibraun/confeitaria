@@ -1,4 +1,4 @@
-package com.example.confeitaria;
+package br.edu.utfpr.confeitaria;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
